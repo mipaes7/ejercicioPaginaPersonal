@@ -169,6 +169,11 @@ h3 {
     opacity: 0.5;
 }
 
+nav li {
+    display: inline;
+    margin-left: 24px;
+}
+
 @media (min-width: 640px) {
     .formacionContainer {
         flex-direction: row;
